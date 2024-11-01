@@ -1,7 +1,7 @@
 # Pizza-Sales-Analysiss
 Introduction
 
-Purpose: To create a comprehensive dashboard that visualizes Adidas-related data, enabling users to analyze performance metrics and gain insights.
+Purpose: To create a comprehensive dashboard that visualizes Pizzas sales-related data, enabling users to analyze performance metrics and gain insights.
 
 Target Audience: Stakeholders, marketing teams, and data analysts looking to assess product performance and customer engagement.
 
